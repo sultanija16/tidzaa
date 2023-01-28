@@ -1,2 +1,2 @@
-C++, Java, JavaScript and Python.
-Aspiring to learn HTML and CSS more
+C++, Java, HTML, CSS, and Javascript.
+Aspiring to learn Python
